@@ -7,6 +7,7 @@ import LoadingSpinner from './components/LoadingSpinner';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import { translateText } from './services/translationService';
+import Footer from './components/Footer';
 
 export default function App() {
   const [sourceLanguage, setSourceLanguage] = useState<Language>(languages[0]);
@@ -116,6 +117,7 @@ export default function App() {
 
         <Features />
       </div>
+      <Footer />
     </div>
   );
 }
