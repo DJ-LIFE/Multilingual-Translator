@@ -44,7 +44,7 @@ This app is built with modern technologies for fast performance and a smooth use
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/realtime-translator.git
+   git clone https://github.com/chriz-ty/Multilingual-Translator.git
    cd realtime-translator
 
 2. **Install Dependencies**:
