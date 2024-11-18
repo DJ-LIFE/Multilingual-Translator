@@ -54,7 +54,6 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-900 text-white">
       <Hero />
-
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="bg-gray-800 rounded-xl shadow-xl p-6">
           <div className="flex flex-col md:flex-row justify-center items-center gap-4 mb-6">
